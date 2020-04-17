@@ -24,18 +24,25 @@ https://github.com/manikandan-ravikiran/cs6460-proj.git
 Install requirements.
 ```
 pip install -r requirements.txt
+pip install git+https://github.com/boudinfl/pke.git
+python -m nltk.downloader stopwords
+python -m nltk.downloader universal_tagset
+python -m spacy download en # download the english model
+pip install spacy
+pip install en-core-web-sm
 ```
 
-The codes are in form of Ipython notebook, you can deploy directly in binder and execute. Please click on the binder build icon.
 
-*NOTE:* The, datasets are already processsed, features are extracted and pickled for replication purposes. Due to privacy restrictions we dont release any datasets in raw format. If you need data for research purposes. Please send an email to mravikiran3@gatech.edu along with details on your research.
+*NOTE:*  The, datasets are already processsed, features are extracted and pickled for replication purposes. Due to privacy restrictions we dont release any datasets in raw format. If you need data for research purposes. Please send an email to mravikiran3@gatech.edu along with details on your research. 
+
+The codes are in form of Ipython notebook, you can deploy directly in binder and execute. Please click on the binder build icon. (*Please note the due to requirement of GPU and privacy of datasets binder can run only few of the experiments. For full fledged run, use a GPU machine *) 
 
 ## Code Organization
 * The code organization is with respect to research questions in paper https://tinyurl.com/yay77mdy.
 * Each *RQx (RQ1.1,RQ1.2,...RQ3.2)* fold answers one or more of the research question and contains two sub folders namely **code** and **data**. Each of the RQx folder code could be run individually without any cross dependency across the project, so in a sense the codes are self contained.
 
 
-## Result Reproducability & Execution
+## Result Reproducibility & Execution
 
 Following details shows relationship to code and Tables of results in https://manikandan-ravikiran.github.io/files/edtech1.pdf. Each code could be run individually without any cross dependency. To reproduce a results, execute corresponding Ipython notebook as mentioned below.
 
