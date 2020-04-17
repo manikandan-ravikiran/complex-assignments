@@ -15,7 +15,6 @@ backports.tempfile==1.0
 backports.weakref==1.0.post1
 beautifulsoup4==4.8.0
 bkcharts==0.2
-bleach==3.1.1
 blis==0.4.1
 bokeh==1.3.4
 boto==2.49.0
@@ -140,7 +139,6 @@ pathlib2==2.3.5
 patsy==0.5.1
 pep8==1.7.1
 pickleshare==0.7.5
-Pillow==6.2.1
 pke==1.8.1
 pkginfo==1.5.0.1
 plac==1.1.3
@@ -150,7 +148,6 @@ preshed==3.0.2
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
 protobuf==3.11.3
-psutil==5.6.3
 py==1.8.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
@@ -255,7 +252,6 @@ typed-ast==1.4.1
 typing-extensions==3.7.4.1
 unicodecsv==0.14.1
 Unidecode==1.1.1
-urllib3==1.22
 wasabi==0.4.2
 wcwidth==0.1.8
 webencodings==0.5.1
