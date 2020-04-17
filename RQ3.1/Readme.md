@@ -1,16 +1,11 @@
-# Supervised Keyphrase Extraction
+# Unsupervised Phrase-Rubric Relationship Extraction
 
-This folder consists of codes for supervised keyphrase extraction involving KEA [1] and WINGUS [2] algorithms.
+This folder consists of codes for Unsupervised Phrase-Rubric Relationship Extraction involving K-Means, Agglomerative and Spectral Clustering.
 
 ## Folder Organization
 
-* **Code** - Consists of ipynb notebooks for each of the algorithms.
-* **Data** - Consists of model files, preprocessed datasets suitable for KEA. For more details on processing please see https://boudinfl.github.io/pke/build/html/tutorials/training.html
+* **Code** - Consists of ipynb notebooks for each of the algorithms seperately in same name.
+* **Data** - Consists of tsv files with input data.
 
 
-## Citation
-```
-[1] Witten, Ian H., Paynter, Gordon W., Frank, Eibe, Gutwin, Carl, and NevillManning, Craig G. (1999). “KEA: practical automatic keyphrase extraction”. In: ArXiv cs.DL/9902007.
-[2] Nguyen, Thuy Dung and Luong, Minh-Thang (2010). “WINGNUS: Keyphrase
-Extraction Utilizing Document Logical Structure”. In: SemEval@ACL
-```
+**NOTE** - Due to privacy restrictions we dont release any datasets/tsv files for this experiment. If you need data for research purposes. Please send an email to mravikiran3@gatech.edu along with details on your research.
