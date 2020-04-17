@@ -1,16 +1,18 @@
-# Supervised Keyphrase Extraction
+# Unsupervised Keyphrase Extraction
 
-This folder consists of codes for supervised keyphrase extraction involving KEA [1] and WINGUS [2] algorithms.
+This folder consists of codes for supervised keyphrase extraction involving KPMINER [1] and YAKE [2] algorithms.
 
 ## Folder Organization
 
 * **Code** - Consists of ipynb notebooks for each of the algorithms.
-* **Data** - Consists of model files, preprocessed datasets suitable for KEA. For more details on processing please see https://boudinfl.github.io/pke/build/html/tutorials/training.html
+* **Data** - Consists of model files, preprocessed datasets suitable for KPMINER and YAKE. For more details on processing please see https://boudinfl.github.io/pke/build/html/tutorials/training.html. Please note that some of these algorithms depends on results of KEA. So train KEA models accordingly.
 
 
 ## Citation
 ```
-[1] Witten, Ian H., Paynter, Gordon W., Frank, Eibe, Gutwin, Carl, and NevillManning, Craig G. (1999). “KEA: practical automatic keyphrase extraction”. In: ArXiv cs.DL/9902007.
-[2] Nguyen, Thuy Dung and Luong, Minh-Thang (2010). “WINGNUS: Keyphrase
-Extraction Utilizing Document Logical Structure”. In: SemEval@ACL
+[1] El-Beltagy, Samhaa R. and Rafea, Ahmed A. (2010). “KP-Miner: Participation in SemEval-2”. In: SemEval@ACL.
+[2] Campos, Ricardo, Mangaravite, Vítor, Pasquali, Arian, Jorge, Alípio Mário,
+Nunes, Celia, and Jatowt, Adam (2020). “YAKE! Keyword extraction from
+single documents using multiple local features”. In: Inf. Sci. 509, pp. 257–
+289.
 ```
