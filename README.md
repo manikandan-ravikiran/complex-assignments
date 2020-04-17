@@ -12,6 +12,7 @@ This repository includes codes related to https://tinyurl.com/yay77mdy, https://
 * Scikit-learn
 * Transformers(Hugging Face)
 * pke 
+* eli5
 
 
 ## Installation
@@ -35,7 +36,7 @@ pip install en-core-web-sm
 
 *NOTE:*  The, datasets are already processsed, features are extracted and pickled for replication purposes. Due to privacy restrictions we dont release any datasets in raw format. If you need data for research purposes. Please send an email to mravikiran3@gatech.edu along with details on your research. 
 
-The codes are in form of Ipython notebook, you can deploy directly in binder and execute. Please click on the binder build icon. (*Please note the due to requirement of GPU and privacy of datasets binder can run only few of the experiments. For full fledged run, use a GPU machine *) 
+The codes are in form of Ipython notebook, you can deploy directly in binder and execute. Please click on the binder build icon. (*Please note the due to requirement of GPU and privacy of datasets binder can run only few of the experiments. For full fledged run, use a GPU machine*) 
 
 ## Code Organization
 * The code organization is with respect to research questions in paper https://tinyurl.com/yay77mdy.
@@ -44,7 +45,7 @@ The codes are in form of Ipython notebook, you can deploy directly in binder and
 
 ## Result Reproducibility & Execution
 
-Following details shows relationship to code and Tables of results in https://manikandan-ravikiran.github.io/files/edtech1.pdf. Each code could be run individually without any cross dependency. To reproduce a results, execute corresponding Ipython notebook as mentioned below.
+Following details shows relationship to code and Tables of results in https://manikandan-ravikiran.github.io/files/edtech1.pdf. Each code could be run individually without any cross dependency. To reproduce a results, execute corresponding Ipython notebook as mentioned below. Further each of the jupyter notebook includes comments and neccessary information for execution.
 
 | Results from Paper | Code Folder|
 | ------------- | ------------- |
@@ -64,9 +65,7 @@ Following details shows relationship to code and Tables of results in https://ma
 | Table 14 (Spectral)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ3.1/code/Spectral%20Clustering.ipynb)|
 | Table 15 (Latent Dirichlet Allocation)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/tree/master/RQ3.2/code)|
 
-* Further each of the jupter notebook includes comments and neccessary information for execution.
-
-# Citing Complex Assignments
+# Cite
 
 
 If you find this repo useful in your research, please consider citing the following papers:
