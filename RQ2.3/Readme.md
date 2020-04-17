@@ -1,16 +1,12 @@
-# Supervised Keyphrase Extraction
+# Supervised Keyphrase Classification - Interpretability
 
-This folder consists of codes for supervised keyphrase extraction involving KEA [1] and WINGUS [2] algorithms.
+This folder consists of codes for extraction of lime interpretability models for both SVM+TFIDF and language models (BERT and RoBERTA)
 
 ## Folder Organization
 
-* **Code** - Consists of ipynb notebooks for each of the algorithms.
-* **Data** - Consists of model files, preprocessed datasets suitable for KEA. For more details on processing please see https://boudinfl.github.io/pke/build/html/tutorials/training.html
+* **Code** - Consists of ipynb notebooks to produce LIME interpretability for each of the models mentioned in the introduction.
+* **Data** - Consists of tsv files used for input, along with some additional pickle files needed for purpose of BERT model.
+* **Results** - Results consists interpretability html files which we got for the fold-2 of dataset using both SVM+BERT and SVM+TFIDF.
 
 
-## Citation
-```
-[1] Witten, Ian H., Paynter, Gordon W., Frank, Eibe, Gutwin, Carl, and NevillManning, Craig G. (1999). “KEA: practical automatic keyphrase extraction”. In: ArXiv cs.DL/9902007.
-[2] Nguyen, Thuy Dung and Luong, Minh-Thang (2010). “WINGNUS: Keyphrase
-Extraction Utilizing Document Logical Structure”. In: SemEval@ACL
-```
+*NOTE:* The overall process for extraction of lime interpretability take 8hrs of 1 Tesla k-80 GPU. As such the code requires high computation infrastrcture.
