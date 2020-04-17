@@ -24,9 +24,13 @@ https://github.com/manikandan-ravikiran/cs6460-proj.git
 Install requirements.
 ```
 pip install -r requirements.txt
+pip install git+https://github.com/boudinfl/pke.git
+python -m nltk.downloader stopwords
+python -m nltk.downloader universal_tagset
+python -m spacy download en # download the english model
+pip install spacy
+pip install en-core-web-sm
 ```
-
-For *en-core-web-sm*, please install spacy first.
 
 The codes are in form of Ipython notebook, you can deploy directly in binder and execute. Please click on the binder build icon.
 
