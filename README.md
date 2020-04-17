@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/manikandan-ravikiran/cs6460-proj/master)
 
 ## Introduction
-This repository includes codes related to https://manikandan-ravikiran.github.io/files/edtech1.pdf, https://arxiv.org/abs/2004.01549 and https://arxiv.org/abs/2003.07019 focusing on Keyphrase Extraction, Keyphrase Classification & Keyphrase-Rubric Relationship Extraction from Complex Assignments. We analysize and study multiple supervised and unsupervised approaches for all the three tasks.
+This repository includes codes related to https://tinyurl.com/yay77mdy, https://arxiv.org/abs/2004.01549 and https://arxiv.org/abs/2003.07019 focusing on Keyphrase Extraction, Keyphrase Classification & Keyphrase-Rubric Relationship Extraction from Complex Assignments. We analysize and study multiple supervised and unsupervised approaches for all the three tasks.
 
 
 ## Dependencies
@@ -13,7 +13,7 @@ This repository includes codes related to https://manikandan-ravikiran.github.io
 * Transformers(Hugging Face)
 * pke 
 
-## Results
+
 ## Installation
 
 First, clone the repository:
@@ -31,11 +31,11 @@ The codes are in form of Ipython notebook, you can deploy directly in binder and
 *NOTE:* The, datasets are already processsed, features are extracted and pickled for replication purposes. Due to privacy restrictions we dont release any datasets in raw format. If you need data for research purposes. Please send an email to mravikiran3@gatech.edu along with details on your research.
 
 ## Code Organization
-* The code organization is with respect to research questions in paper https://manikandan-ravikiran.github.io/files/edtech1.pdf.
+* The code organization is with respect to research questions in paper https://tinyurl.com/yay77mdy.
 * Each *RQx (RQ1.1,RQ1.2,...RQ3.2)* fold answers one or more of the research question and contains two sub folders namely **code** and **data**. Each of the RQx folder code could be run individually without any cross dependency across the project, so in a sense the codes are self contained.
 
 
-## Replication & Execution
+## Result Reproducability & Execution
 
 Following details shows relationship to code and Tables of results in https://manikandan-ravikiran.github.io/files/edtech1.pdf. Each code could be run individually without any cross dependency. To reproduce a results, execute corresponding Ipython notebook as mentioned below.
 
@@ -57,10 +57,26 @@ Following details shows relationship to code and Tables of results in https://ma
 | Table 14 (Spectral)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ3.1/code/Spectral%20Clustering.ipynb)|
 | Table 15 (Latent Dirichlet Allocation)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/tree/master/RQ3.2/code)|
 
+* Further each of the jupter notebook includes comments and neccessary information for execution.
+
+# Citing Complex Assignments
 
 
+If you find this repo useful in your research, please consider citing the following papers:
+```
+@article{Ravikiran2020UnsupervisedKR,
+title={Unsupervised Keyphrase Rubric Relationship Classification in Complex Assignments},
+author={Manikandan Ravikiran},
+journal={ArXiv},
+year={2020},
+volume={abs/2004.01549}
+}
 
-
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/manikandan-ravikiran/cs6460-proj/master)
+@article{Ravikiran2020KeyPC,
+title={Key Phrase Classification in Complex Assignments},
+author={Manikandan Ravikiran},
+journal={ArXiv},
+year={2020},
+volume={abs/2003.07019}
+}
+```
