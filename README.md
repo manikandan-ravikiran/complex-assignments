@@ -40,7 +40,7 @@ The codes are in form of Ipython notebook, you can deploy directly in binder and
 
 ## Code Organization
 * The code organization is with respect to research questions in paper https://tinyurl.com/yay77mdy.
-* Each *RQx (RQ1.1,RQ1.2,...RQ3.2)* fold answers one or more of the research question and contains two sub folders namely **code** and **data**. Each of the RQx folder code could be run individually without any cross dependency across the project, so in a sense the codes are self contained.
+* Each *RQx (RQ1.1,RQ1.2,...RQ3.2)* folder answers one or more of the research question and contains two sub folders namely **code** and **data**. Each of the RQx folder code could be run individually without any cross dependency across the project, so in a sense the codes are self contained.
 
 
 ## Result Reproducibility & Execution
@@ -49,21 +49,19 @@ Following details shows relationship to code and Tables of results in https://ma
 
 | Results from Paper | Code Folder|
 | ------------- | ------------- |
-| Table 5 (KEA/WINGUS) | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/tree/master/RQ1.1/code) |
-| Table 5 (KPMINER/YAKE)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/tree/master/RQ1.2/code)   |
-| Table 5 (Ranking)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/tree/master/RQ1.3/code)  |
-| Table 6 (KEA)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ1.1/code/KEA.ipynb)  |
-| Table 6 (Multipartite)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ1.3/code/Ranking_Approach.ipynb)  |
-| Table 8 (BOW/TF-IDF)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ2.1/code/Traditional%20Approaches.ipynb)  |
-| Table 8 (Language Models)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ2.2/code/Language_Models.ipynb)  |
-| Table 10 (Interpretability - BERT)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ2.3/code/bert_interpretability.ipynb)  |
-| Table 10 (Interpretability - SVM+TFIDF)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ2.3/code/traditional_interpretability.ipynb)  |
-| Table 11 (Interpretability - BERT)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ2.3/code/bert_interpretability.ipynb)  |
-| Table 11 (Interpretability - SVM+TFIDF)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ2.3/code/traditional_interpretability.ipynb)  |
-| Table 12 (K-Means)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ3.1/code/K-Means.ipynb)  |
-| Table 13 (Agglomerative)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ3.1/code/Aggolomerative.ipynb)|
-| Table 14 (Spectral)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ3.1/code/Spectral%20Clustering.ipynb)|
-| Table 15 (Latent Dirichlet Allocation)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/tree/master/RQ3.2/code)|
+| Table 4 (KEA/WINGUS) | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/tree/master/RQ1.1/code) |
+| Table 4 (KPMINER/YAKE)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/tree/master/RQ1.2/code)   |
+| Table 4 (Ranking)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/tree/master/RQ1.3/code)  |
+| Table 4 (KEA)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ1.1/code/KEA.ipynb)  |
+| Table 4 (Multipartite)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ1.3/code/Ranking_Approach.ipynb)  |
+| Table 7 (K-Means)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ3.1/code/K-Means.ipynb)  |
+| Table 8 (Agglomerative)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ3.1/code/Aggolomerative.ipynb)|
+| Table 9 (Spectral)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ3.1/code/Spectral%20Clustering.ipynb)|
+| Table 10 (Latent Dirichlet Allocation)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/tree/master/RQ3.2/code)|
+| Table 12 (BOW/TF-IDF)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ2.1/code/Traditional%20Approaches.ipynb)  |
+| Table 12 (Language Models)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ2.2/code/Language_Models.ipynb)  |
+| Table 14 (Interpretability - BERT)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ2.3/code/bert_interpretability.ipynb)  |
+| Table 15 (Interpretability - SVM+TFIDF)  | [Execute this](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ2.3/code/traditional_interpretability.ipynb)  |
 
 # Cite
 
