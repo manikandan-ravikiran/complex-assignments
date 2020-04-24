@@ -153,7 +153,6 @@ pydantic==1.4
 pyflakes==2.0.0
 Pygments==2.5.2
 pylint==2.4.2
-pyodbc==4.0.27
 pyOpenSSL==19.0.0
 pyparsing==2.4.5
 pyproj==2.4.0
