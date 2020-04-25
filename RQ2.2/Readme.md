@@ -1,4 +1,4 @@
-# Supervised Keyphrase Classification
+# Supervised Generic Keyphrase-Rubric Relationship Classification
 
 This folder consists of codes for Generic Keyphrase-Rubric Relationship Classification involving language models [1]-[4]
 
