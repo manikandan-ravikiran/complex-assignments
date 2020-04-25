@@ -1,6 +1,6 @@
 # Supervised Keyphrase Classification
 
-This folder consists of codes for supervised keyphrase classification involving language models [1]-[4]
+This folder consists of codes for Generic Keyphrase-Rubric Relationship Classification involving language models [1]-[4]
 
 ## Folder Organization
 
