@@ -1,6 +1,6 @@
-# Supervised Keyphrase Classification
+# Generic Keyphrase-Rubric Relationship Classification
 
-This folder consists of codes for supervised keyphrase extraction classification using SVM with TF-IDF and Bag of Words approaches.
+This folder consists of codes for supervised Generic Keyphrase-Rubric Relationship Classification using SVM with TF-IDF and Bag of Words approaches.
 
 ## Folder Organization
 
