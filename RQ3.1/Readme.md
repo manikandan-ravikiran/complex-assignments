@@ -1,6 +1,6 @@
-# Unsupervised Phrase-Rubric Relationship Extraction
+# Specific Keyphrase-Rubric Relationship Classification
 
-This folder consists of codes for Unsupervised Phrase-Rubric Relationship Extraction involving K-Means, Agglomerative and Spectral Clustering.
+This folder consists of codes for Unsupervised pecific Keyphrase-Rubric Relationship Classification involving K-Means, Agglomerative and Spectral Clustering.
 
 ## Folder Organization
 
