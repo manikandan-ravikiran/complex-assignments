@@ -1,6 +1,6 @@
-# Topic modeling for Keyphrase-Rubric Relationship Extraction
+# Topic modeling for pecific Keyphrase-Rubric Relationship Classification
 
-This folder consists of codes for experiments on LDA with unsupevised algorithms for Keyphrase-Rubric Relationship Extraction.
+This folder consists of codes for experiments on LDA with unsupevised algorithms for pecific Keyphrase-Rubric Relationship Classification. 
 
 ## Folder Organization
 
