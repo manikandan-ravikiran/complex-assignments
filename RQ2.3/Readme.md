@@ -1,4 +1,4 @@
-# Supervised Keyphrase Classification - Interpretability
+# Generic Keyphrase-Rubric Relationship Classification - Interpretability
 
 This folder consists of codes for extraction of lime interpretability models for both SVM+TFIDF and language models (BERT and RoBERTA)
 
