@@ -36,7 +36,7 @@ pip install en-core-web-sm
 
 *NOTE:*  The, datasets are already processsed, features are extracted and pickled for replication purposes. Due to privacy restrictions we dont release any datasets in raw format. If you need data for research purposes. Please send an email to mravikiran3@gatech.edu along with details on your research. 
 
-The codes are in form of Ipython notebook, you can deploy directly in binder and execute. Please click on the binder build icon. (*Please note the due to requirement of GPU and privacy of datasets binder can run only few of the experiments of RQ 2.2. For full fledged run, use an independent GPU machine*) 
+The codes are in form of Ipython notebook, you can deploy directly in binder and execute. Please click on the binder build icon. (*Please note the due to requirement of GPU and privacy of datasets binder can run only few of the experiments of [RQ2.2](https://github.com/manikandan-ravikiran/cs6460-proj/blob/master/RQ2.2/code/Language_Models.ipynb). For full fledged run, use an independent GPU machine*) 
 
 ## Code Organization
 * The code organization is with respect to research questions in paper [**Finding Black Cat in a Coal Cellar - Keyphrase Extraction & Keyphrase-Rubric Relationship Classification from Complex Assignments**](https://manikandan-ravikiran.github.io/files/edtech1.pdf)
