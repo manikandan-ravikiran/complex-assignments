@@ -39,13 +39,14 @@ pip install en-core-web-sm
 The codes are in form of Ipython notebook, you can deploy directly in binder and execute. Please click on the binder build icon. (*Please note the due to requirement of GPU and privacy of datasets binder can run only few of the experiments of RQ 2.2. For full fledged run, use an independent GPU machine*) 
 
 ## Code Organization
-* The code organization is with respect to research questions in paper https://tinyurl.com/yay77mdy.
+* The code organization is with respect to research questions in paper [**Finding Black Cat in a Coal Cellar - Keyphrase Extraction & Keyphrase-Rubric Relationship Classification from Complex Assignments**](https://manikandan-ravikiran.github.io/files/edtech1.pdf)
 * Each *RQx (RQ1.1,RQ1.2,...RQ3.2)* folder answers one or more of the research question and contains two sub folders namely **code** and **data**. Each of the RQx folder code could be run individually without any cross dependency across the project, so in a sense the codes are self contained.
 
 
 ## Result Reproducibility & Execution
 
-Following details shows relationship to code and Tables of results in https://manikandan-ravikiran.github.io/files/edtech1.pdf. Each code could be run individually without any cross dependency. To reproduce a results, execute corresponding Ipython notebook as mentioned below. Further each of the jupyter notebook includes comments and neccessary information for execution.
+* Following details shows relationship to code and Tables of results in [**Finding Black Cat in a Coal Cellar - Keyphrase Extraction & Keyphrase-Rubric Relationship Classification from Complex Assignments**](https://manikandan-ravikiran.github.io/files/edtech1.pdf). 
+* Each code could be run individually without any cross dependency. To reproduce a results, execute corresponding Ipython notebook as mentioned below. Further each of the jupyter notebook includes comments and neccessary information for execution.
 
 | Results from Paper | Code Folder|
 | ------------- | ------------- |
