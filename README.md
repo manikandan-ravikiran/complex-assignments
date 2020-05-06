@@ -69,12 +69,12 @@ The codes are in form of Ipython notebook, you can deploy directly in binder and
 
 If you find this repo useful in your research, please consider citing the following papers:
 ```
-@article{Ravikiran2020UnsupervisedKR,
-title={Unsupervised Keyphrase Rubric Relationship Classification in Complex Assignments},
-author={Manikandan Ravikiran},
-journal={ArXiv},
-year={2020},
-volume={abs/2004.01549}
+@article{Ravikiran2020FindingBC,
+  title={Finding Black Cat in a Coal Cellar - Keyphrase Extraction & Keyphrase-Rubric Relationship Classification from Complex Assignments},
+  author={Manikandan Ravikiran},
+  journal={ArXiv},
+  year={2020},
+  volume={abs/2004.01549}
 }
 
 @article{Ravikiran2020KeyPC,
