@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/manikandan-ravikiran/cs6460-proj/master)
 
 ## Introduction
-This repository includes codes related to our paper [**Finding Black Cat in a Coal Cellar - Keyphrase Extraction & Keyphrase-Rubric Relationship Classification from Complex Assignments**](https://manikandan-ravikiran.github.io/files/edtech1.pdf) focusing empirical study of Keyphrase Extraction & Generic/Specific Keyphrase-Rubric Relationship Classification.
+This repository includes codes related to our paper [**Finding Black Cat in a Coal Cellar - Keyphrase Extraction & Keyphrase-Rubric Relationship Classification from Complex Assignments**](https://arxiv.org/abs/2004.01549) focusing empirical study of Keyphrase Extraction & Generic/Specific Keyphrase-Rubric Relationship Classification.
 
 
 ## Dependencies
