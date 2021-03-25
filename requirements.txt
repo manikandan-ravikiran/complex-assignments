@@ -173,7 +173,7 @@ pytest-remotedata==0.3.2
 python-dateutil==2.8.0
 pytz==2019.3
 PyWavelets==1.1.1
-PyYAML==5.2
+PyYAML==5.4
 pyzmq==19.0.0
 QtAwesome==0.6.0
 qtconsole==4.7.0
