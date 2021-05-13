@@ -149,7 +149,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycodestyle==2.4.0
 pycparser==2.19
-pydantic==1.4
+pydantic==1.6.2
 pyflakes==2.0.0
 Pygments==2.5.2
 pylint==2.4.2
