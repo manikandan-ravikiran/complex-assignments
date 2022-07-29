@@ -104,7 +104,7 @@ Markdown==3.2.1
 MarkupSafe==1.1.1
 matplotlib==3.1.2
 mccabe==0.6.1
-mistune==0.8.4
+mistune==2.0.3
 ml-metrics==0.1.4
 mne==0.19.2
 mock==3.0.5
